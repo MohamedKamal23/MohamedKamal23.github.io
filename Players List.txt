@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Players List</title>
+<style>
+h1 {
+text-align: center;
+}
+
+ul {
+  font-size: 30`px;
+}
+
+body{
+background-image:url("https://th.bing.com/th/id/R.4f3f06fe735815a74089b7cd2da74b85?rik=0G1LvsqT8UEsVw&riu=http%3a%2f%2fwallpaperheart.com%2fwp-content%2fuploads%2f2018%2f04%2fBarcelona-Wallpaper-Barcelona-Wallpapers.jpg&ehk=l87iVFr0PAK6Ioy01v%2fmA%2f2PomN30t7Ou%2fJr29zRpx8%3d&risl=&pid=ImgRaw&r=0")
+
+
+</style>
+</head>
+
+<h1 style="color:White;">Players List</h1>
+
+<
+<ul>
+  <li style="color:White;">Ter stegen</li>
+  <li style="color:White;">Neto</li>
+  <li style="color:White;">Inaki Pena</li>
+<hr> </hr>
+  <li style="color:White;">Gerrard Pique</li>
+  <li style="color:White;">Dani Alves</li>
+  <li style="color:White;">Lenglet</li>
+  <li style="color:White;">Samuel Umtiti</li>
+  <li style="color:White;">Oscar Mingueza</li>
+  <li style="color:White;">Araujo</li>
+  <li style="color:White;">Jordi Alba </li>
+<hr> </hr>
+  <li style="color:White;">Sergio Busquets (C)</li>
+  <li style="color:White;">Gavi</li>
+<li style="color:White;">Frenkie de jong</li>
+  <li style="color:White;">Pedri Gonzalez</li>
+  <li style="color:White;">Nico Gonzalez</li>
+  <li style="color:White;">Phillipe Coutinho</li>
+<hr> </hr>
+  <li style="color:White;">Memphis Depay</li>
+  <li style="color:White;">Luuk De jong</li>
+  <li style="color:White;">Braithwaite</li>
+  <li style="color:White;">Yusuf Demir</li>
+  <li style="color:White;">Ousmane Dembele</li>
+  <li style="color:White;">Ansu Fati</li>
+  <li style="color:White;">Aguero</li>
+</ul>
+
+
+
+
+
+
+
+
+</body>
+</html>

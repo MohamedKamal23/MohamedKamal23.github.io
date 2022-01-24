@@ -1,0 +1,68 @@
+<html>
+<head>
+<title>Trophy Cabinet</title>
+<style>
+
+h1 {
+text-align: center;
+}
+
+h2 {
+text-align: center;
+}
+
+h3 {
+text-align: center;
+}
+
+/* six image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+body{
+background-image:url("https://th.bing.com/th/id/R.4f3f06fe735815a74089b7cd2da74b85?rik=0G1LvsqT8UEsVw&riu=http%3a%2f%2fwallpaperheart.com%2fwp-content%2fuploads%2f2018%2f04%2fBarcelona-Wallpaper-Barcelona-Wallpapers.jpg&ehk=l87iVFr0PAK6Ioy01v%2fmA%2f2PomN30t7Ou%2fJr29zRpx8%3d&risl=&pid=ImgRaw&r=0")
+
+
+</style>
+</head>
+
+ <h1 style="color:White;"><b> Trophy Cabinet </b></h1> 
+
+<h2 style="color:Yellow;">Honours</h2>
+<h3 style="color:White;">Very few clubs anywhere in the world have won so many titles. The club's greatest pride and joy remain the five European Cup titles won in Wembley (1992, 2011), Paris (2006), Rome (2009), Berlin (2015) the FIFA Club World Cup (2009, 2011 and 2015)</h3>
+
+
+<div class="row">
+  <div class="column">
+    <img src="C:\Users\Moham\OneDrive\Desktop\Spanish-Cup2.png" style="width:50%">
+   <p> <b> <i> 5x Champions League </i> </b> </p>
+  </div>
+  <div class="column">
+    <img src="C:\Users\Moham\OneDrive\Desktop\Fifa-Club-World-Cup.png" style="width:50%">
+  <p> <b> <i> 3x Fifa Club World Cup </i> </b> </p>
+  </div>
+  <div class="column">
+    <img src="C:\Users\Moham\OneDrive\Desktop\La-Liga.png" style="width:50%">
+ <p> <b> <i>26x Spanish League Cup </i> </b> </p>
+  </div>
+ <div class="column">
+    <img src="C:\Users\Moham\OneDrive\Desktop\Spanish-Cup.png" style="width:50%">
+ <p> <b> <i> 31x Copa Del Rey </i> </b> </p>
+ <div class="column">
+    <img src="C:\Users\Moham\OneDrive\Desktop\Supercopa.jpg" style="width:150%">
+ <p> <b> <i> 13x Spanish SuperCup </i> </b> </p>
+</div>
+
+
+
+</html>
